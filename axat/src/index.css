@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+input{
+    background-color: beige;
+    border: 1px ridge grey;
+    
+}
+.btn{
+    background-color: beige;
+    border: 1px ridge grey; 
+    color: rgba(235, 235, 14, 0.806); 
+}
